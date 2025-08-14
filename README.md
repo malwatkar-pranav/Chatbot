@@ -10,7 +10,7 @@ A modern, intelligent chatbot that can have conversations like ChatGPT using rea
 - 📱 **Mobile Friendly**: Works on all devices
 - ⚡ **Fast Responses**: Quick AI-powered replies
 - 🔄 **Fallback System**: Smart responses when API is unavailable
-- Live Link : https://chatbot-ri1bovvit-pranavs-projects-094f6776.vercel.app/
+- **Live Demo** : https://chatbot-ri1bovvit-pranavs-projects-094f6776.vercel.app/
 
 ## Setup Instructions
 
